@@ -3,8 +3,6 @@
 
 from melons import melon_dict
 
-print(melon_dict)
-
 def print_melon(dictionary):
     """Print each melon with corresponding attribute information."""
 
