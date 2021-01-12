@@ -1,4 +1,4 @@
-melons = {
+melon_dict = {
     'Honeydew': {
         'price': 0.99,
         'seedlessness': True,
@@ -35,5 +35,3 @@ melons = {
         'rind_color': None
     } 
 }
-
-print(melons)
